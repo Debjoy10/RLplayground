@@ -1,5 +1,12 @@
-# RLplayground
-Trying out different RL algorithms on a simple windy grid-world, discussed in Lecture 5: Model Free Learning of David Silver's Reinforcement Learning Course.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45385843/90400641-65856000-e0ba-11ea-8cc6-da167a4ea047.png" />  
+</p>
+<p align="center"; font-weight:"bold">
+  Trying out different RL algorithms on a simple windy grid-world for practice.
+</p>
+
+
+  
 ## Grid-World
 ```
 ---------------------
