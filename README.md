@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45385843/90400641-65856000-e0ba-11ea-8cc6-da167a4ea047.png" />  
+  <img src="https://user-images.githubusercontent.com/45385843/109552304-9af21800-7af7-11eb-8da1-226596dd9bda.png" />  
 </p>
 <p align="center"; font-weight:"bold">
   Trying out different RL algorithms on a simple windy grid-world for practice.
